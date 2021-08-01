@@ -1,31 +1,31 @@
 {
 
     "basics": {
-        "name": "---Enter Your Name---",
+        "name": "Shivam Kumar Singh",
 
         "label": "Student",
 
-        "picture": "---Enter Image URL----",
+        "picture": "https://avatars.githubusercontent.com/u/57297788?v=4",
 
-        "email": "---Enter Email ID---",
+        "email": "2019kucp1043@iiitkota.ac.in",
 
-        "phone": "---Enter Mobile Number---",
+        "phone": "+919368060897",
 
-        "website": "---Enter Link of website(if any) ---",
+        "website": "",
 
-        "summary": "---Tell Something about yourself ---",
+        "summary": "I'm pre-final year Student at IIITKOTA,persuing my B.tech in Computer Science & engineering.",
 
         "location": {
 
-            "address": "---",
+            "address": "Agra",
 
-            "postalCode": "---",
+            "postalCode": "282001",
 
-            "city": "---",
+            "city": "Agra",
 
             "countryCode": "India",
 
-            "region": "---State Name---"
+            "region": "Uttar Pradesh"
 
         },
 
@@ -33,9 +33,9 @@
 
                 "network": "Twitter",
 
-                "username": "handle",
+                "username": "Shivam15287106",
 
-                "url": "https://www.twitter.com/<handle>"
+                "url": "https://www.twitter.com/Shivam15287106"
 
             },
 
@@ -43,9 +43,9 @@
 
                 "network": "Github",
 
-                "username": "handle",
+                "username": "Er-Shivams",
 
-                "url": "https://www.github.com/<handle>/"
+                "url": "https://www.github.com/Er-Shivams/"
 
             },
 
@@ -53,9 +53,9 @@
 
                 "network": "linkedin",
 
-                "username": "username",
+                "username": "sshivam-kumar-singh",
 
-                "url": "https://www.linkedin.com/in/<username>/"
+                "url": "https://www.linkedin.com/in/sshivam-kumar-singh/"
 
             },
 
@@ -63,9 +63,9 @@
 
                 "network": "Instagram",
 
-                "username": "handle",
+                "username": "shivam_singh098",
 
-                "url": "https://instagram.com/<handle>"
+                "url": "https://instagram.com/shivam_singh098"
 
             }
 
@@ -75,35 +75,35 @@
 
     "work": [{
 
-        "company": "---",
+        "company": "chotu",
 
-        "position": "----",
+        "position": "UI Developer",
 
-        "website": "----",
+        "website": "",
 
-        "startDate": "2020-08-04//Take care about Date Format",
+        "startDate": "",
 
-        "endDate": "Date // ",
+        "endDate": "",
 
-        "summary": "---Tell me something About Org. --- ",
+        "summary": "Worked as a UI Developer for Frontend of Mobile and Web Applications.",
 
-        "highlights": ["Add Highlights", "Your work details"]
+        "highlights": []
 
     }],
 
     "volunteer": [{
 
-        "organization": "---Name Org ---",
+        "organization": "",
 
-        "position": "---Add ---",
+        "position": "",
 
-        "website": "---",
+        "website": "",
 
-        "startDate": "2020-01-01 // Note Date Format",
+        "startDate": "",
 
-        "endDate": "---",
+        "endDate": "",
 
-        "summary": "Description...",
+        "summary": "",
 
         "highlights": []
 
@@ -117,11 +117,11 @@
 
         "studyType": "Bachelor (hons)",
 
-        "startDate": "2018-04-08 //Date",
+        "startDate": "",
 
-        "endDate": "----",
+        "endDate": "",
 
-        "gpa": "---Add your CGPA ---",
+        "gpa": "",
 
         "courses": [
 
@@ -133,21 +133,21 @@
 
     "awards": [{
 
-        "title": "--Title---",
+        "title": "",
 
-        "awarder": "---Receiverd By ---",
+        "awarder": "",
 
-        "date": "2020-08-21//Date"
+        "date": ""
 
     }],
 
     "publications": [{
 
-        "title": "---Enter Title---",
+        "title": "",
 
-        "details": "---Enter Details---",
+        "details": "",
 
-        "link": "---github/website link to show your work---"
+        "link": ""
 
     }],
 
@@ -155,7 +155,7 @@
 
         "level": "Master",
 
-        "keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+        "keywords": [ "C/C++","HTML", "CSS", "Javascript", "React","React Native", "MongoDB","Node", "Express"]
 
     }],
 
@@ -163,9 +163,15 @@
 
         "name": "Sports",
 
-        "keywords": ["Chess", "Badminton"]
+        "keywords": ["Cricket", "Badminton","Chess"]
+        },
+        {
 
-    }],
+        "name": "Cultural Activities",
+
+        "keywords": ["Dance", "Drama", "Street Theatre"]
+    }
+],
 
     "references": []
 
